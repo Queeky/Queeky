@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# Languages
-![PHP icon](https://github.com/Queeky/Queeky/blob/main/icons/php.png?raw=true)
+### Languages
+<img src="https://github.com/Queeky/Queeky/blob/main/icons/php.png?raw=true" width="10%">
 ![JavaScript icon](https://github.com/Queeky/Queeky/blob/main/icons/js.png?raw=true)
 ![TypeScript icon](https://github.com/Queeky/Queeky/blob/main/icons/typescript.png?raw=true)
 ![Java icon](https://github.com/Queeky/Queeky/blob/main/icons/java.png?raw=true)
@@ -12,22 +12,22 @@
 ![HTML icon](https://github.com/Queeky/Queeky/blob/main/icons/html.png?raw=true)
 ![CSS icon](https://github.com/Queeky/Queeky/blob/main/icons/text.png?raw=true)
 
-# Frameworks
+### Frameworks
 ![Laravel icon](https://github.com/Queeky/Queeky/blob/main/icons/laravel.png?raw=true)
 ![Node.js icon](https://github.com/Queeky/Queeky/blob/main/icons/Node.js_logo.svg.png?raw=true)
 
-# OS & Web Servers
+### OS & Web Servers
 ![Windows icon](https://github.com/Queeky/Queeky/blob/main/icons/windows.png?raw=true)
 ![Linux icon](https://github.com/Queeky/Queeky/blob/main/icons/linux.png?raw=true)
 ![Nginx icon](https://github.com/Queeky/Queeky/blob/main/icons/nginx.png?raw=true)
 ![Apache icon](https://github.com/Queeky/Queeky/blob/main/icons/apache.png?raw=true)
 
-# Environments
+### Environments
 ![VSCode icon](https://github.com/Queeky/Queeky/blob/main/icons/Visual_Studio_Code_1.35_icon.svg.png?raw=true)
 ![XAMPP icon](https://github.com/Queeky/Queeky/blob/main/icons/xampp.png?raw=true)
 ![Azure icon](https://github.com/Queeky/Queeky/blob/main/icons/azure.png?raw=true)
 
-# Testing Tools
+### Testing Tools
 ![PHPUnit icon](https://github.com/Queeky/Queeky/blob/main/icons/phpunit.png?raw=true)
 ![Selenium icon](https://github.com/Queeky/Queeky/blob/main/icons/Selenium_Logo.png?raw=true)
 
