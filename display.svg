@@ -1,0 +1,75 @@
+<svg fill="none" viewBox="0 0 800 600" width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                * {
+                    margin: 0; 
+                    padding: 0; 
+                    box-sizing: border-box; 
+                    font-family: 'consolas'; 
+                }
+                .dark-light {
+                    background-color: #fc521e; 
+                    color: #fce9e3; 
+                }
+                .light-dark {
+                    background-color: #fcc6b6; 
+                    color: #e83f0c; 
+                }
+                .header {
+                    padding-top: 3%; 
+                    padding-bottom: 3%;
+                }
+                .header h2 {
+                    font-size: 40px; 
+                }
+                .info {
+                    padding-top: 5%; 
+                    padding-bottom: 5%; 
+                }
+                .info p:not(p:last-child) {
+                    margin-bottom: 1.5%; 
+                }
+                .info .name {
+                    font-size: 25px; 
+                }
+                .info .alias {
+                    font-size: 18px; 
+                }
+                .info .titles {
+                    font-size: 18px; 
+                }
+                .current-work, .past-work, .contact {
+                    padding-top: 3%; 
+                    padding-bottom: 3%; 
+                    padding-left: 5%; 
+                }
+                .current-work h3, .past-work h3, .contact h3 {
+                    font-size: 18px; 
+                    margin-bottom: 1%; 
+                }
+            </style>
+            <div>
+                <div class="header dark-light" style="text-align: center;">
+                    <h2>WELCOME TO MY GITHUB</h2>
+                </div>
+                <div class="info light-dark" style="text-align: center;">
+                    <p class="name">Quinn Miersma <span style="color: #fc521e;">"Queeky"</span></p>
+                    <p class="titles">SOFTWARE DEVELOPER | FULLSTACK | BACKEND | TECHNICAL WRITING</p>
+                </div>
+            </div>
+            <div class="current-work dark-light">
+                <h3>What am I currently working on?</h3>
+                <p>Little blurb here about my browser-based multiplayer word game "decaf"</p>
+            </div>
+            <div class="past-work light-dark">
+                <h3>What have I worked on in the past?</h3>
+                <p>Blurb here about Caesura, SmartRec API, etc.</p>
+            </div>
+            <div class="contact dark-light">
+                <h3>Contact Me!</h3>
+                <p>(219) 228 1567 | qamy.ava@gmail.com | www.linkedin.com/in/quinn-miersma</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
