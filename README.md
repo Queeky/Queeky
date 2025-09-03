@@ -2,14 +2,6 @@
     <img src="display.svg"/>
 </div>
 
-## decaffeinatedgames.com
-<div>
-  <img src="https://github.com/Queeky/Queeky/blob/main/icons/decaf_screenshot.png?raw=true" alt="Screenshot of decaffeinatedgames homepage" width="100%" />
-  <img src="https://github.com/Queeky/Queeky/blob/main/icons/decaf_screenshot_2.png?raw=true" alt="Screenshot of decaffeinatedgames Run-Away Story game" width="100%" />
-  <img src="https://github.com/Queeky/Queeky/blob/main/icons/decaf_screenshot_3.png?raw=true" alt="Screenshot of decaffeinatedgames Run-Away Story game" width="100%" />
-  <img src="https://github.com/Queeky/Queeky/blob/main/icons/decaf_screenshot_4.png?raw=true" alt="Screenshot of decaffeinatedgames Run-Away Story game" width="100%" />
-</div>
-
 ## I'm familiar with...
 ### Languages
 <div align="left">
